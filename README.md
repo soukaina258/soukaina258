@@ -14,7 +14,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/soukaina258/soukaina258/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **JavaScript was created in just 10 days! 🚀💻**
 
  </div>
  
