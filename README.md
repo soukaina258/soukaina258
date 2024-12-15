@@ -4,8 +4,11 @@
 </h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
 <br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soukaina258&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=soukaina258&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soukaina258&theme=dark&hide_border=true" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soukaina258&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+
 
 <br/>
 
