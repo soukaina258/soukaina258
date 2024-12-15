@@ -4,10 +4,6 @@
 </h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
 <br/>
-<h3 align="center">📊 GitHub Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=soukaina258&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soukaina258&theme=dark&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soukaina258&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
 
 <br/>
