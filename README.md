@@ -6,8 +6,6 @@
 <br/>
 
 
-<br/>
-
 <div align="center">
  
  👩🏻‍💻 Software Engineer sharing about my journey and learnings in **tech**
