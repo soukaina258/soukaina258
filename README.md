@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **React, Three.js, MERN**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/soukaina258/soukaina258/issues)**
+💬 Ask me about **Javascript, Laravel, React... or anything [here](https://github.com/soukaina258/soukaina258/issues)**
 
 ⚡ Fun fact **JavaScript was created in just 10 days! 🚀💻**
 
